@@ -48,6 +48,7 @@
         "./scripts/enable-rdp.bat",
         "./scripts/compile-dotnet-assemblies.bat",
         "./scripts/disable-auto-logon.bat",
+        "./scripts/chocopacks_developer.bat",
         "./scripts/compact.bat"
       ]
     },
