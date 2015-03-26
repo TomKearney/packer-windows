@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "windows_2012_r2 _development.json",
+			"settings":
+			{
+				"buffer_size": 1817,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vagrantfile-windows_2012_r2_development.template",
+			"settings":
+			{
+				"buffer_size": 900,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "answer_files/2012_r2/Autounattend.xml",
+			"settings":
+			{
+				"buffer_size": 18193,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/chocopacks_developer.bat",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/chocopacks.bat",
+			"settings":
+			{
+				"buffer_size": 180,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 50 files for \"chocopacks\"\n\nC:\\Projects\\CommonInfrastructure\\Vagrant\\Packer-Windows\\windows_2012_r2 _development.json:\n   49          \"./scripts/compile-dotnet-assemblies.bat\",\n   50          \"./scripts/disable-auto-logon.bat\",\n   51:         \"./scripts/chocopacks_developer.bat\",\n   52          \"./scripts/compact.bat\"\n   53        ]\n\nC:\\Projects\\CommonInfrastructure\\Vagrant\\Packer-Windows\\windows_2012_r2_development.json:\n   49          \"./scripts/compile-dotnet-assemblies.bat\",\n   50          \"./scripts/disable-auto-logon.bat\",\n   51:         \"./scripts/chocopacks_developer.bat\",\n   52          \"./scripts/compact.bat\"\n   53        ]\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 677,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "scripts/chocolatey.bat",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/ProgramData/chocolatey/config/chocolatey.config",
+		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/windows_2012_r2 _development.json",
+		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/packer-windows/windows_2012_r2.json",
+		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/packer-windows/vagrantfile-windows_2012_r2.template",
+		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/packer-windows/scripts/chocopacks.bat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chocopacks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "windows_2012_r2 _development.json",
+					"settings":
+					{
+						"buffer_size": 1817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								825,
+								825
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vagrantfile-windows_2012_r2_development.template",
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								489,
+								489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "answer_files/2012_r2/Autounattend.xml",
+					"settings":
+					{
+						"buffer_size": 18193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17288,
+								17288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3645.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/chocopacks_developer.bat",
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scripts/chocopacks.bat",
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"settings":
+					{
+						"buffer_size": 677,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										263,
+										273
+									],
+									[
+										570,
+										580
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scripts/chocolatey.bat",
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"choco",
+				"scripts/chocopacks.bat"
+			],
+			[
+				"cho",
+				"scripts/chocopacks_developer.bat"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true
+}
