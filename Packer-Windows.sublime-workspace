@@ -8,14 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "windows_2012_r2 _development.json",
-			"settings":
-			{
-				"buffer_size": 1817,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "vagrantfile-windows_2012_r2_development.template",
 			"settings":
 			{
@@ -35,7 +27,7 @@
 			"file": "scripts/chocopacks_developer.bat",
 			"settings":
 			{
-				"buffer_size": 412,
+				"buffer_size": 507,
 				"line_ending": "Windows"
 			}
 		},
@@ -64,20 +56,40 @@
 				"buffer_size": 285,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "Packer-Windows.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 8173,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "windows_2012_r2_development.json",
+			"settings":
+			{
+				"buffer_size": 1933,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 58.0,
 		"selected_items":
 		[
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			]
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 125.0
 	},
 	"distraction_free":
 	{
@@ -90,8 +102,8 @@
 	},
 	"file_history":
 	[
-		"/C/ProgramData/chocolatey/config/chocolatey.config",
 		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/windows_2012_r2 _development.json",
+		"/C/ProgramData/chocolatey/config/chocolatey.config",
 		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/packer-windows/windows_2012_r2.json",
 		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/packer-windows/vagrantfile-windows_2012_r2.template",
 		"/C/Projects/CommonInfrastructure/Vagrant/Packer-Windows/packer-windows/scripts/chocopacks.bat"
@@ -102,7 +114,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 90.0,
+		"height": 0.0,
 		"where_history":
 		[
 			""
@@ -131,39 +143,11 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 7,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "windows_2012_r2 _development.json",
-					"settings":
-					{
-						"buffer_size": 1817,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								825,
-								825
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "vagrantfile-windows_2012_r2_development.template",
 					"settings":
 					{
@@ -191,7 +175,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "answer_files/2012_r2/Autounattend.xml",
 					"settings":
 					{
@@ -219,19 +203,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "scripts/chocopacks_developer.bat",
 					"settings":
 					{
-						"buffer_size": 412,
+						"buffer_size": 507,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								183,
-								183
+								507,
+								507
 							]
 						],
 						"settings":
@@ -245,7 +229,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "scripts/chocopacks.bat",
 					"settings":
 					{
@@ -271,7 +255,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"settings":
 					{
 						"buffer_size": 677,
@@ -318,7 +302,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "scripts/chocolatey.bat",
 					"settings":
 					{
@@ -336,6 +320,61 @@
 						"settings":
 						{
 							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Packer-Windows.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 8173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "windows_2012_r2_development.json",
+					"settings":
+					{
+						"buffer_size": 1933,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								836,
+								836
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
